@@ -1,0 +1,7 @@
+{
+  "name": "Serta Georgia E-commerce",
+  "description": "A premium mattress e-commerce platform with a clean UI, category filtering, and an integrated admin panel for product management, inspired by the Serta brand aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
